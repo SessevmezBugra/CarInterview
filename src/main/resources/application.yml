@@ -1,0 +1,9 @@
+springdoc:
+  packagesToScan: com.interview.controller
+  pathsToMatch: /car
+  version: '@springdoc.version@'
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
