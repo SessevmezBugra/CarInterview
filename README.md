@@ -1,3 +1,6 @@
+This is an API Project. You can create three type car with this project.
+Sedan, Hatchback, Cabrio.
+
 You can explore on this url
 
 http://localhost:8080/swagger-ui.html
